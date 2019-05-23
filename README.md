@@ -1,6 +1,6 @@
 # Regressão Linear com javascript
 
-Algoritmo de regressão linear implementado em javascript e em uma interface html simples. Este aplicativo foi desenvolvido para atender a um trabalho na faculade da matéria de Inteligência Artificial
+Algoritmo de regressão linear implementado em javascript com uma simples interface html. Este aplicativo foi desenvolvido para atender a um trabalho na faculade da matéria de Inteligência Artificial
 
 - Para iniciar o programar clone o projeto e abra o arquivo index.html
 
