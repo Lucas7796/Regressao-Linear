@@ -43,7 +43,7 @@ clear.addEventListener('click', clean)
 html.innerHTML += `<p>Meses: ${x.join()}</p>` 
 html.innerHTML += `<p>Valores: ${y.join()}</p>` 
 
-
+//função que multiplica cada um dos valores dos vetores entre si
 function produto(x, y) {
     var ret = [];
     for ( var i = 0 ; i < x.length ; i++ )
@@ -51,6 +51,7 @@ function produto(x, y) {
     return ret;
 }
 
+//furção que retorna o quadrado de todos os Xs do vetor
 function quadrados(x) {
     var ret = [];
     for ( var i = 0 ; i < x.length ; i++ )
@@ -58,6 +59,7 @@ function quadrados(x) {
     return ret;
 }
 
+//fução que realiza o somatório de todos os valores de x
 function somatorio(x) {
     var ret = 0;
     for ( var i = 0 ; i < x.length ; i++ )
