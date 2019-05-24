@@ -1,5 +1,4 @@
-// var x = [1,2,3];
-// var y = [10,20,30];
+//script para a aplicação
 
 var x = [];
 var y = [];
